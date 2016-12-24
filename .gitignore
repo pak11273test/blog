@@ -37,4 +37,5 @@ node_modules
 build/*
 dist/*
 public/dist/*
+public/build/main.js
 public/src/config/app.templates.js
